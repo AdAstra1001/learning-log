@@ -1,7 +1,7 @@
 # Portfolio: Overthewire Bandit Walkthrough
 
 ## Level 13 -> Level 14
-* ** Objective:** Connect to the next level using a private SHH key stored on the server.
+* **Objective:** Connect to the next level using a private SHH key stored on the server.
 
 * **Step 1:** Found the private key file in the home directory using the 'ls' or 'find' command.
 * **Step 2:** Displayed the contents of the key using 'cat ~/sshkey.private'.
