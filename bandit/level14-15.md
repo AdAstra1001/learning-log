@@ -1,4 +1,4 @@
-# Portfolio: Overthewire Bandit Walkthrough
+# Overthewire Bandit Walkthrough
 
 ## Level 14 -> Level 15
 * **Objective:** Retrieve the password for the next level by submitting the current level's password to port 30000 on localhost.

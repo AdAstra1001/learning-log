@@ -1,4 +1,4 @@
-# Portfolio: Overthewire Bandit Walkthrough
+# Overthewire Bandit Walkthrough
 
 ## Level 13 -> Level 14
 * **Objective:** Connect to the next level using a private SHH key stored on the server.

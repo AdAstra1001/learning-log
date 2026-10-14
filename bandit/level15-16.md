@@ -1,4 +1,4 @@
-# Portfolio: Overthewire Bandit Walkthrough
+# Overthewire Bandit Walkthrough
 
 ## Level 15 -> Level 16
 * **Objective:** Submit the current password to port 30001 on localhost using SSL/TLS encryption.
